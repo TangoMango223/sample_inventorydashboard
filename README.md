@@ -68,7 +68,17 @@ python generate_data.py
 
 ### 3. Run Exploratory Data Analysis
 
-Explore the data with the interactive Jupyter notebook:
+**Option A: Quick Analysis (Recommended)**
+
+Run the standalone Python script for instant insights:
+
+```bash
+python run_eda.py
+```
+
+**Option B: Interactive Notebook**
+
+Explore the data interactively with Jupyter:
 
 ```bash
 jupyter notebook exploratory_data_analysis.ipynb
