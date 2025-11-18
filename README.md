@@ -50,13 +50,31 @@ This repository contains a fictional dataset for a Canadian Consumer Packaged Go
 - Lead times
 - Stock-out incidents
 
-## Usage
+## Getting Started
 
-Use the `generate_data.py` script to regenerate or extend the dataset:
+### 1. Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 2. Generate Data (Optional)
+
+The dataset is already included, but you can regenerate or extend it:
 
 ```bash
 python generate_data.py
 ```
+
+### 3. Run Exploratory Data Analysis
+
+Explore the data with the interactive Jupyter notebook:
+
+```bash
+jupyter notebook exploratory_data_analysis.ipynb
+```
+
+See [EDA_GUIDE.md](EDA_GUIDE.md) for detailed instructions and insights.
 
 ## Dashboard Use Cases
 

@@ -1,9 +1,14 @@
-# No external dependencies required
-# The data generation script uses only Python standard library (csv, random, datetime)
+# Core data analysis libraries (required for EDA)
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
 
-# For future dashboard development, you might want:
-# pandas>=2.0.0
-# numpy>=1.24.0
-# plotly>=5.14.0
-# dash>=2.9.0
-# streamlit>=1.22.0
+# Jupyter notebook support
+jupyter>=1.0.0
+notebook>=6.5.0
+
+# For dashboard development (optional)
+plotly>=5.14.0
+dash>=2.9.0
+streamlit>=1.22.0
