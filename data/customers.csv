@@ -1,0 +1,11 @@
+customer_id,customer_name,customer_type,tier,regions,payment_terms_days,credit_limit_cad
+C001,Loblaw Companies,Grocery,National,Atlantic;Ontario;Quebec;West,30,2721975
+C002,Sobeys Inc.,Grocery,National,Atlantic;Ontario;Quebec;West,30,2568861
+C003,Metro Inc.,Grocery,National,Atlantic;Ontario;Quebec;West,60,2704036
+C004,Walmart Canada,Big Box,National,Atlantic;Ontario;Quebec;West,60,4093963
+C005,Costco Canada,Warehouse Club,National,Atlantic;Ontario;Quebec;West,60,3850414
+C006,Save-On-Foods,Grocery,Regional,Ontario;Atlantic,60,4639910
+C007,Shoppers Drug Mart,Pharmacy,National,Atlantic;Ontario;Quebec;West,30,895240
+C008,Dollarama,Discount,National,Atlantic;Ontario;Quebec;West,30,1782125
+C009,Canadian Tire,General Merchandise,National,Atlantic;Ontario;Quebec;West,60,1842026
+C010,Amazon Canada,E-Commerce,National,Atlantic;Ontario;Quebec;West,60,4041334

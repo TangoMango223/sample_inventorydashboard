@@ -1,0 +1,9 @@
+# No external dependencies required
+# The data generation script uses only Python standard library (csv, random, datetime)
+
+# For future dashboard development, you might want:
+# pandas>=2.0.0
+# numpy>=1.24.0
+# plotly>=5.14.0
+# dash>=2.9.0
+# streamlit>=1.22.0

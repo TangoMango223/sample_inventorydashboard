@@ -1,0 +1,14 @@
+warehouse_id,warehouse_name,region,city,capacity_pallets,current_utilization_pct,operating_cost_monthly_cad,staff_count
+WH-001,"Halifax, NS Distribution Center",Atlantic,"Halifax, NS",14771,61.6,150039,96
+WH-002,"Moncton, NB Distribution Center",Atlantic,"Moncton, NB",12668,73.2,195024,21
+WH-003,"St. John's, NL Distribution Center",Atlantic,"St. John's, NL",16145,78.0,190763,54
+WH-004,"Toronto, ON Distribution Center",Ontario,"Toronto, ON",17592,76.0,79242,57
+WH-005,"Ottawa, ON Distribution Center",Ontario,"Ottawa, ON",12123,64.0,50850,53
+WH-006,"Mississauga, ON Distribution Center",Ontario,"Mississauga, ON",13201,79.0,183085,33
+WH-007,"Montreal, QC Distribution Center",Quebec,"Montreal, QC",19262,75.6,183080,97
+WH-008,"Quebec City, QC Distribution Center",Quebec,"Quebec City, QC",8258,63.8,92349,89
+WH-009,"Laval, QC Distribution Center",Quebec,"Laval, QC",17757,83.1,50149,96
+WH-010,"Vancouver, BC Distribution Center",West,"Vancouver, BC",10310,72.2,79325,66
+WH-011,"Calgary, AB Distribution Center",West,"Calgary, AB",19396,84.6,130612,50
+WH-012,"Edmonton, AB Distribution Center",West,"Edmonton, AB",5949,66.0,198729,30
+WH-013,"Winnipeg, MB Distribution Center",West,"Winnipeg, MB",6403,78.3,68143,88

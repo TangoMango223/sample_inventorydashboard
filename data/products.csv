@@ -1,0 +1,26 @@
+sku,product_name,category,pack_size,unit_cost_cad,retail_price_cad,weight_kg,cubic_meters,shelf_life_days
+SKU-1000,Maple Crunch Granola Bars,Snacks & Confectionery,12,4.50,8.99,3.38,0.011,540
+SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,10,5.25,10.49,1.6,0.016,180
+SKU-1002,Potato Chips - Sea Salt,Snacks & Confectionery,24,3.75,7.49,3.55,0.046,180
+SKU-1003,Chocolate Wafer Cookies,Snacks & Confectionery,18,4.20,8.49,3.16,0.011,180
+SKU-1004,Mixed Nuts Premium,Snacks & Confectionery,8,6.80,13.99,1.48,0.03,180
+SKU-1005,Sparkling Water - Lemon,Beverages,24,5.50,10.99,3.03,0.039,730
+SKU-1006,Iced Tea - Peach,Beverages,12,4.25,8.49,1.49,0.034,180
+SKU-1007,Energy Drink - Arctic Blast,Beverages,12,8.75,17.99,3.91,0.016,730
+SKU-1008,Coconut Water Organic,Beverages,12,9.25,18.99,2.03,0.016,540
+SKU-1009,Cold Brew Coffee RTD,Beverages,12,7.50,14.99,0.96,0.025,540
+SKU-1010,Hand Soap - Lavender,Personal Care,6,8.25,15.99,4.31,0.034,180
+SKU-1011,Body Lotion - Unscented,Personal Care,4,12.50,24.99,3.78,0.031,730
+SKU-1012,Shampoo - Moisturizing,Personal Care,6,15.75,29.99,0.85,0.022,540
+SKU-1013,Toothpaste - Whitening,Personal Care,12,6.50,12.99,3.1,0.038,180
+SKU-1014,Deodorant - Fresh Scent,Personal Care,8,10.25,19.99,3.48,0.041,180
+SKU-1015,Multi-Surface Cleaner,Household Cleaning,6,9.75,18.99,4.35,0.045,730
+SKU-1016,Dish Soap - Citrus,Household Cleaning,8,6.25,11.99,1.75,0.035,540
+SKU-1017,Laundry Detergent Pods,Household Cleaning,4,18.50,34.99,1.23,0.024,540
+SKU-1018,Glass Cleaner,Household Cleaning,6,7.80,14.99,3.66,0.037,180
+SKU-1019,Disinfecting Wipes,Household Cleaning,6,11.25,21.99,3.24,0.017,365
+SKU-1020,Vitamin C Gummies,Health & Wellness,12,8.75,16.99,1.24,0.025,365
+SKU-1021,Protein Bars - Chocolate,Health & Wellness,12,12.50,24.99,3.58,0.044,180
+SKU-1022,Probiotics Daily,Health & Wellness,6,22.50,44.99,1.53,0.011,540
+SKU-1023,Fiber Supplement Powder,Health & Wellness,4,16.75,32.99,2.31,0.013,540
+SKU-1024,Multivitamin Adult,Health & Wellness,6,14.25,27.99,1.46,0.03,730

@@ -1,0 +1,226 @@
+warehouse_id,region,sku,product_name,category,current_stock_units,safety_stock_units,reorder_point_units,max_stock_units,inventory_value_cad,days_of_supply,status,last_updated
+WH-001,Atlantic,SKU-1004,Mixed Nuts Premium,Snacks & Confectionery,725,218,327,2182,4930.00,19.1,Normal,2025-11-18
+WH-001,Atlantic,SKU-1021,Protein Bars - Chocolate,Health & Wellness,816,124,187,1248,10200.00,68.0,Normal,2025-11-18
+WH-001,Atlantic,SKU-1015,Multi-Surface Cleaner,Household Cleaning,4753,983,1475,9838,46341.75,55.9,Normal,2025-11-18
+WH-001,Atlantic,SKU-1017,Laundry Detergent Pods,Household Cleaning,409,380,571,3808,7566.50,21.5,Low,2025-11-18
+WH-001,Atlantic,SKU-1005,Sparkling Water - Lemon,Beverages,584,116,174,1164,3212.00,32.4,Normal,2025-11-18
+WH-001,Atlantic,SKU-1008,Coconut Water Organic,Beverages,409,71,107,714,3783.25,21.5,Normal,2025-11-18
+WH-001,Atlantic,SKU-1016,Dish Soap - Citrus,Household Cleaning,2811,862,1293,8622,17568.75,62.5,Normal,2025-11-18
+WH-001,Atlantic,SKU-1013,Toothpaste - Whitening,Personal Care,2570,815,1222,8152,16705.00,32.5,Normal,2025-11-18
+WH-001,Atlantic,SKU-1006,Iced Tea - Peach,Beverages,2172,236,354,2366,9231.00,53.0,Overstock,2025-11-18
+WH-001,Atlantic,SKU-1018,Glass Cleaner,Household Cleaning,7409,794,1192,7948,57790.20,119.5,Overstock,2025-11-18
+WH-001,Atlantic,SKU-1011,Body Lotion - Unscented,Personal Care,717,331,497,3318,8962.50,32.6,Normal,2025-11-18
+WH-001,Atlantic,SKU-1024,Multivitamin Adult,Health & Wellness,3628,726,1089,7262,51699.00,56.7,Normal,2025-11-18
+WH-001,Atlantic,SKU-1022,Probiotics Daily,Health & Wellness,4518,693,1040,6934,101655.00,282.4,Normal,2025-11-18
+WH-001,Atlantic,SKU-1010,Hand Soap - Lavender,Personal Care,305,181,271,1812,2516.25,5.0,Normal,2025-11-18
+WH-001,Atlantic,SKU-1014,Deodorant - Fresh Scent,Personal Care,1470,575,863,5758,15067.50,35.9,Normal,2025-11-18
+WH-001,Atlantic,SKU-1020,Vitamin C Gummies,Health & Wellness,1112,333,500,3338,9730.00,14.3,Normal,2025-11-18
+WH-001,Atlantic,SKU-1007,Energy Drink - Arctic Blast,Beverages,1903,755,1132,7550,16651.25,29.7,Normal,2025-11-18
+WH-001,Atlantic,SKU-1019,Disinfecting Wipes,Household Cleaning,1460,320,480,3206,16425.00,21.2,Normal,2025-11-18
+WH-002,Atlantic,SKU-1002,Potato Chips - Sea Salt,Snacks & Confectionery,1841,289,434,2896,6903.75,184.1,Normal,2025-11-18
+WH-002,Atlantic,SKU-1014,Deodorant - Fresh Scent,Personal Care,2831,659,989,6596,29017.75,41.6,Normal,2025-11-18
+WH-002,Atlantic,SKU-1017,Laundry Detergent Pods,Household Cleaning,3952,487,730,4872,73112.00,39.9,Overstock,2025-11-18
+WH-002,Atlantic,SKU-1003,Chocolate Wafer Cookies,Snacks & Confectionery,8903,930,1395,9304,37392.60,307.0,Overstock,2025-11-18
+WH-002,Atlantic,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,1546,331,496,3310,8116.50,41.8,Normal,2025-11-18
+WH-002,Atlantic,SKU-1022,Probiotics Daily,Health & Wellness,239,115,173,1158,5377.50,4.8,Normal,2025-11-18
+WH-002,Atlantic,SKU-1000,Maple Crunch Granola Bars,Snacks & Confectionery,215,113,170,1136,967.50,2.6,Normal,2025-11-18
+WH-002,Atlantic,SKU-1024,Multivitamin Adult,Health & Wellness,4920,801,1201,8010,70110.00,63.9,Normal,2025-11-18
+WH-002,Atlantic,SKU-1007,Energy Drink - Arctic Blast,Beverages,509,277,416,2778,4453.75,6.8,Normal,2025-11-18
+WH-002,Atlantic,SKU-1005,Sparkling Water - Lemon,Beverages,531,151,226,1512,2920.50,29.5,Normal,2025-11-18
+WH-002,Atlantic,SKU-1006,Iced Tea - Peach,Beverages,2107,994,1492,9948,8954.75,21.9,Normal,2025-11-18
+WH-002,Atlantic,SKU-1016,Dish Soap - Citrus,Household Cleaning,2058,405,607,4052,12862.50,82.3,Normal,2025-11-18
+WH-002,Atlantic,SKU-1013,Toothpaste - Whitening,Personal Care,4986,953,1429,9532,32409.00,59.4,Normal,2025-11-18
+WH-002,Atlantic,SKU-1021,Protein Bars - Chocolate,Health & Wellness,1645,994,1491,9940,20562.50,18.5,Normal,2025-11-18
+WH-002,Atlantic,SKU-1023,Fiber Supplement Powder,Health & Wellness,1012,154,231,1542,16951.00,10.8,Normal,2025-11-18
+WH-002,Atlantic,SKU-1018,Glass Cleaner,Household Cleaning,9541,976,1464,9762,74419.80,190.8,Overstock,2025-11-18
+WH-003,Atlantic,SKU-1006,Iced Tea - Peach,Beverages,2441,369,553,3692,10374.25,56.8,Normal,2025-11-18
+WH-003,Atlantic,SKU-1021,Protein Bars - Chocolate,Health & Wellness,1666,237,355,2370,20825.00,92.6,Normal,2025-11-18
+WH-003,Atlantic,SKU-1022,Probiotics Daily,Health & Wellness,1933,420,630,4202,43492.50,42.0,Normal,2025-11-18
+WH-003,Atlantic,SKU-1010,Hand Soap - Lavender,Personal Care,2072,278,417,2784,17094.00,26.2,Normal,2025-11-18
+WH-003,Atlantic,SKU-1007,Energy Drink - Arctic Blast,Beverages,4848,515,773,5156,42420.00,440.7,Overstock,2025-11-18
+WH-003,Atlantic,SKU-1008,Coconut Water Organic,Beverages,5833,928,1392,9286,53955.25,62.1,Normal,2025-11-18
+WH-003,Atlantic,SKU-1012,Shampoo - Moisturizing,Personal Care,464,189,284,1896,7308.00,10.8,Normal,2025-11-18
+WH-003,Atlantic,SKU-1004,Mixed Nuts Premium,Snacks & Confectionery,2031,209,313,2090,13810.80,88.3,Overstock,2025-11-18
+WH-003,Atlantic,SKU-1009,Cold Brew Coffee RTD,Beverages,3472,926,1389,9264,26040.00,78.9,Normal,2025-11-18
+WH-003,Atlantic,SKU-1014,Deodorant - Fresh Scent,Personal Care,2206,481,722,4816,22611.50,41.6,Normal,2025-11-18
+WH-003,Atlantic,SKU-1005,Sparkling Water - Lemon,Beverages,3168,353,530,3534,17424.00,34.8,Overstock,2025-11-18
+WH-003,Atlantic,SKU-1018,Glass Cleaner,Household Cleaning,2522,452,678,4524,19671.60,35.0,Normal,2025-11-18
+WH-003,Atlantic,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,4139,431,647,4314,21729.75,258.7,Overstock,2025-11-18
+WH-003,Atlantic,SKU-1000,Maple Crunch Granola Bars,Snacks & Confectionery,1470,171,256,1712,6615.00,23.0,Overstock,2025-11-18
+WH-003,Atlantic,SKU-1020,Vitamin C Gummies,Health & Wellness,834,473,709,4732,7297.50,83.4,Normal,2025-11-18
+WH-003,Atlantic,SKU-1016,Dish Soap - Citrus,Household Cleaning,1637,566,849,5664,10231.25,18.0,Normal,2025-11-18
+WH-003,Atlantic,SKU-1013,Toothpaste - Whitening,Personal Care,1110,449,673,4490,7215.00,16.8,Normal,2025-11-18
+WH-003,Atlantic,SKU-1019,Disinfecting Wipes,Household Cleaning,7930,923,1385,9238,89212.50,97.9,Overstock,2025-11-18
+WH-003,Atlantic,SKU-1017,Laundry Detergent Pods,Household Cleaning,92,35,53,358,1702.00,4.8,Normal,2025-11-18
+WH-004,Ontario,SKU-1022,Probiotics Daily,Health & Wellness,7595,937,1405,9372,170887.50,85.3,Overstock,2025-11-18
+WH-004,Ontario,SKU-1004,Mixed Nuts Premium,Snacks & Confectionery,1242,273,409,2732,8445.60,41.4,Normal,2025-11-18
+WH-004,Ontario,SKU-1017,Laundry Detergent Pods,Household Cleaning,1998,310,465,3100,36963.00,153.7,Normal,2025-11-18
+WH-004,Ontario,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,1673,313,470,3138,8783.25,27.0,Normal,2025-11-18
+WH-004,Ontario,SKU-1011,Body Lotion - Unscented,Personal Care,1518,426,639,4264,18975.00,50.6,Normal,2025-11-18
+WH-004,Ontario,SKU-1018,Glass Cleaner,Household Cleaning,980,197,295,1970,7644.00,70.0,Normal,2025-11-18
+WH-004,Ontario,SKU-1024,Multivitamin Adult,Health & Wellness,2613,791,1186,7910,37235.25,74.7,Normal,2025-11-18
+WH-004,Ontario,SKU-1023,Fiber Supplement Powder,Health & Wellness,3638,774,1161,7740,60936.50,74.2,Normal,2025-11-18
+WH-004,Ontario,SKU-1013,Toothpaste - Whitening,Personal Care,1305,392,589,3928,8482.50,100.4,Normal,2025-11-18
+WH-004,Ontario,SKU-1019,Disinfecting Wipes,Household Cleaning,1968,336,504,3364,22140.00,37.8,Normal,2025-11-18
+WH-004,Ontario,SKU-1000,Maple Crunch Granola Bars,Snacks & Confectionery,1044,476,714,4764,4698.00,23.2,Normal,2025-11-18
+WH-004,Ontario,SKU-1015,Multi-Surface Cleaner,Household Cleaning,5850,595,892,5952,57037.50,78.0,Overstock,2025-11-18
+WH-004,Ontario,SKU-1005,Sparkling Water - Lemon,Beverages,6240,674,1012,6748,34320.00,80.0,Overstock,2025-11-18
+WH-004,Ontario,SKU-1014,Deodorant - Fresh Scent,Personal Care,788,562,843,5624,8077.00,32.8,Low,2025-11-18
+WH-004,Ontario,SKU-1012,Shampoo - Moisturizing,Personal Care,1178,447,671,4478,18553.50,14.0,Normal,2025-11-18
+WH-004,Ontario,SKU-1003,Chocolate Wafer Cookies,Snacks & Confectionery,610,454,682,4548,2562.00,26.5,Low,2025-11-18
+WH-004,Ontario,SKU-1009,Cold Brew Coffee RTD,Beverages,8116,997,1496,9974,60870.00,150.3,Overstock,2025-11-18
+WH-004,Ontario,SKU-1021,Protein Bars - Chocolate,Health & Wellness,4107,533,800,5338,51337.50,47.2,Overstock,2025-11-18
+WH-004,Ontario,SKU-1002,Potato Chips - Sea Salt,Snacks & Confectionery,1804,857,1286,8578,6765.00,30.6,Normal,2025-11-18
+WH-005,Ontario,SKU-1006,Iced Tea - Peach,Beverages,3361,689,1033,6890,14284.25,55.1,Normal,2025-11-18
+WH-005,Ontario,SKU-1008,Coconut Water Organic,Beverages,1546,504,756,5044,14300.50,45.5,Normal,2025-11-18
+WH-005,Ontario,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,6155,708,1063,7088,32313.75,106.1,Overstock,2025-11-18
+WH-005,Ontario,SKU-1013,Toothpaste - Whitening,Personal Care,2826,305,457,3050,18369.00,34.5,Overstock,2025-11-18
+WH-005,Ontario,SKU-1000,Maple Crunch Granola Bars,Snacks & Confectionery,3839,513,769,5130,17275.50,48.0,Normal,2025-11-18
+WH-005,Ontario,SKU-1016,Dish Soap - Citrus,Household Cleaning,97,20,30,206,606.25,2.1,Normal,2025-11-18
+WH-005,Ontario,SKU-1017,Laundry Detergent Pods,Household Cleaning,2124,364,546,3642,39294.00,25.3,Normal,2025-11-18
+WH-005,Ontario,SKU-1024,Multivitamin Adult,Health & Wellness,4356,547,821,5478,62073.00,66.0,Overstock,2025-11-18
+WH-005,Ontario,SKU-1011,Body Lotion - Unscented,Personal Care,6278,744,1116,7444,78475.00,169.7,Overstock,2025-11-18
+WH-005,Ontario,SKU-1021,Protein Bars - Chocolate,Health & Wellness,4733,857,1286,8574,59162.50,152.7,Normal,2025-11-18
+WH-005,Ontario,SKU-1022,Probiotics Daily,Health & Wellness,739,158,238,1588,16627.50,9.9,Normal,2025-11-18
+WH-005,Ontario,SKU-1010,Hand Soap - Lavender,Personal Care,1334,569,853,5690,11005.50,33.4,Normal,2025-11-18
+WH-005,Ontario,SKU-1005,Sparkling Water - Lemon,Beverages,2368,528,792,5284,13024.00,67.7,Normal,2025-11-18
+WH-005,Ontario,SKU-1009,Cold Brew Coffee RTD,Beverages,361,261,392,2614,2707.50,24.1,Low,2025-11-18
+WH-005,Ontario,SKU-1012,Shampoo - Moisturizing,Personal Care,2367,421,631,4210,37280.25,26.9,Normal,2025-11-18
+WH-005,Ontario,SKU-1014,Deodorant - Fresh Scent,Personal Care,1071,139,208,1392,10977.75,17.0,Overstock,2025-11-18
+WH-005,Ontario,SKU-1004,Mixed Nuts Premium,Snacks & Confectionery,4148,963,1444,9630,28206.40,41.9,Normal,2025-11-18
+WH-005,Ontario,SKU-1023,Fiber Supplement Powder,Health & Wellness,4698,649,973,6490,78691.50,77.0,Normal,2025-11-18
+WH-005,Ontario,SKU-1015,Multi-Surface Cleaner,Household Cleaning,1023,419,629,4196,9974.25,11.0,Normal,2025-11-18
+WH-006,Ontario,SKU-1024,Multivitamin Adult,Health & Wellness,5763,745,1117,7450,82122.75,77.9,Overstock,2025-11-18
+WH-006,Ontario,SKU-1003,Chocolate Wafer Cookies,Snacks & Confectionery,5207,719,1078,7190,21869.40,77.7,Normal,2025-11-18
+WH-006,Ontario,SKU-1013,Toothpaste - Whitening,Personal Care,2224,280,420,2806,14456.00,33.2,Overstock,2025-11-18
+WH-006,Ontario,SKU-1007,Energy Drink - Arctic Blast,Beverages,3523,444,666,4446,30826.25,85.9,Overstock,2025-11-18
+WH-006,Ontario,SKU-1005,Sparkling Water - Lemon,Beverages,4443,474,711,4742,24436.50,49.4,Overstock,2025-11-18
+WH-006,Ontario,SKU-1016,Dish Soap - Citrus,Household Cleaning,1535,411,617,4118,9593.75,23.3,Normal,2025-11-18
+WH-006,Ontario,SKU-1014,Deodorant - Fresh Scent,Personal Care,731,146,220,1468,7492.75,18.3,Normal,2025-11-18
+WH-006,Ontario,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,3216,465,697,4650,16884.00,64.3,Normal,2025-11-18
+WH-006,Ontario,SKU-1021,Protein Bars - Chocolate,Health & Wellness,1564,904,1357,9048,19550.00,57.9,Normal,2025-11-18
+WH-006,Ontario,SKU-1023,Fiber Supplement Powder,Health & Wellness,1214,267,400,2670,20334.50,20.6,Normal,2025-11-18
+WH-006,Ontario,SKU-1019,Disinfecting Wipes,Household Cleaning,1146,270,405,2702,12892.50,63.7,Normal,2025-11-18
+WH-006,Ontario,SKU-1002,Potato Chips - Sea Salt,Snacks & Confectionery,4038,699,1049,6996,15142.50,77.7,Normal,2025-11-18
+WH-006,Ontario,SKU-1012,Shampoo - Moisturizing,Personal Care,4725,909,1363,9090,74418.75,75.0,Normal,2025-11-18
+WH-006,Ontario,SKU-1018,Glass Cleaner,Household Cleaning,545,122,183,1220,4251.00,8.7,Normal,2025-11-18
+WH-006,Ontario,SKU-1010,Hand Soap - Lavender,Personal Care,5442,658,987,6580,44896.50,55.0,Overstock,2025-11-18
+WH-006,Ontario,SKU-1008,Coconut Water Organic,Beverages,490,52,78,520,4532.50,5.9,Overstock,2025-11-18
+WH-006,Ontario,SKU-1009,Cold Brew Coffee RTD,Beverages,4550,643,964,6432,34125.00,455.0,Normal,2025-11-18
+WH-006,Ontario,SKU-1020,Vitamin C Gummies,Health & Wellness,3042,596,894,5962,26617.50,51.6,Normal,2025-11-18
+WH-007,Quebec,SKU-1013,Toothpaste - Whitening,Personal Care,1115,895,1342,8950,7247.50,18.6,Low,2025-11-18
+WH-007,Quebec,SKU-1017,Laundry Detergent Pods,Household Cleaning,1433,989,1484,9896,26510.50,71.7,Low,2025-11-18
+WH-007,Quebec,SKU-1023,Fiber Supplement Powder,Health & Wellness,1833,722,1083,7222,30702.75,26.6,Normal,2025-11-18
+WH-007,Quebec,SKU-1019,Disinfecting Wipes,Household Cleaning,522,317,476,3176,5872.50,12.1,Normal,2025-11-18
+WH-007,Quebec,SKU-1007,Energy Drink - Arctic Blast,Beverages,3322,641,961,6410,29067.50,89.8,Normal,2025-11-18
+WH-007,Quebec,SKU-1015,Multi-Surface Cleaner,Household Cleaning,3441,764,1147,7648,33549.75,64.9,Normal,2025-11-18
+WH-007,Quebec,SKU-1020,Vitamin C Gummies,Health & Wellness,2920,641,961,6410,25550.00,46.3,Normal,2025-11-18
+WH-007,Quebec,SKU-1008,Coconut Water Organic,Beverages,3852,433,649,4332,35631.00,192.6,Overstock,2025-11-18
+WH-007,Quebec,SKU-1024,Multivitamin Adult,Health & Wellness,948,790,1185,7904,13509.00,12.0,Low,2025-11-18
+WH-007,Quebec,SKU-1021,Protein Bars - Chocolate,Health & Wellness,463,105,157,1052,5787.50,12.2,Normal,2025-11-18
+WH-007,Quebec,SKU-1000,Maple Crunch Granola Bars,Snacks & Confectionery,214,132,198,1324,963.00,16.5,Normal,2025-11-18
+WH-007,Quebec,SKU-1006,Iced Tea - Peach,Beverages,1241,425,637,4250,5274.25,103.4,Normal,2025-11-18
+WH-007,Quebec,SKU-1005,Sparkling Water - Lemon,Beverages,1246,269,404,2696,6853.00,47.9,Normal,2025-11-18
+WH-007,Quebec,SKU-1010,Hand Soap - Lavender,Personal Care,6279,795,1193,7958,51801.75,261.6,Overstock,2025-11-18
+WH-007,Quebec,SKU-1011,Body Lotion - Unscented,Personal Care,4515,944,1416,9440,56437.50,65.4,Normal,2025-11-18
+WH-007,Quebec,SKU-1016,Dish Soap - Citrus,Household Cleaning,3580,439,659,4398,22375.00,62.8,Overstock,2025-11-18
+WH-007,Quebec,SKU-1002,Potato Chips - Sea Salt,Snacks & Confectionery,2775,294,442,2948,10406.25,31.9,Overstock,2025-11-18
+WH-007,Quebec,SKU-1018,Glass Cleaner,Household Cleaning,1799,207,311,2076,14032.20,60.0,Overstock,2025-11-18
+WH-007,Quebec,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,1414,529,794,5296,7423.50,16.8,Normal,2025-11-18
+WH-008,Quebec,SKU-1009,Cold Brew Coffee RTD,Beverages,442,87,130,872,3315.00,5.7,Normal,2025-11-18
+WH-008,Quebec,SKU-1018,Glass Cleaner,Household Cleaning,6140,721,1082,7218,47892.00,107.7,Overstock,2025-11-18
+WH-008,Quebec,SKU-1021,Protein Bars - Chocolate,Health & Wellness,1168,132,199,1328,14600.00,12.7,Overstock,2025-11-18
+WH-008,Quebec,SKU-1012,Shampoo - Moisturizing,Personal Care,682,579,868,5790,10741.50,10.8,Low,2025-11-18
+WH-008,Quebec,SKU-1022,Probiotics Daily,Health & Wellness,1687,823,1234,8230,37957.50,26.0,Normal,2025-11-18
+WH-008,Quebec,SKU-1006,Iced Tea - Peach,Beverages,5819,613,920,6134,24730.75,85.6,Overstock,2025-11-18
+WH-008,Quebec,SKU-1002,Potato Chips - Sea Salt,Snacks & Confectionery,2053,270,405,2706,7698.75,64.2,Overstock,2025-11-18
+WH-008,Quebec,SKU-1007,Energy Drink - Arctic Blast,Beverages,6202,874,1312,8748,54267.50,141.0,Normal,2025-11-18
+WH-008,Quebec,SKU-1003,Chocolate Wafer Cookies,Snacks & Confectionery,7246,901,1352,9016,30433.20,102.1,Overstock,2025-11-18
+WH-008,Quebec,SKU-1024,Multivitamin Adult,Health & Wellness,4349,781,1172,7816,61973.25,51.2,Normal,2025-11-18
+WH-008,Quebec,SKU-1013,Toothpaste - Whitening,Personal Care,3099,459,689,4596,20143.50,75.6,Normal,2025-11-18
+WH-008,Quebec,SKU-1010,Hand Soap - Lavender,Personal Care,732,161,242,1618,6039.00,10.9,Normal,2025-11-18
+WH-008,Quebec,SKU-1015,Multi-Surface Cleaner,Household Cleaning,3492,419,629,4194,34047.00,50.6,Overstock,2025-11-18
+WH-008,Quebec,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,7162,953,1430,9536,37600.50,135.1,Overstock,2025-11-18
+WH-008,Quebec,SKU-1020,Vitamin C Gummies,Health & Wellness,573,67,100,670,5013.75,11.2,Overstock,2025-11-18
+WH-009,Quebec,SKU-1006,Iced Tea - Peach,Beverages,4866,929,1394,9296,20680.50,49.7,Normal,2025-11-18
+WH-009,Quebec,SKU-1011,Body Lotion - Unscented,Personal Care,6091,800,1200,8000,76137.50,84.6,Overstock,2025-11-18
+WH-009,Quebec,SKU-1008,Coconut Water Organic,Beverages,7249,754,1131,7542,67053.25,604.1,Overstock,2025-11-18
+WH-009,Quebec,SKU-1010,Hand Soap - Lavender,Personal Care,774,172,258,1724,6385.50,20.4,Normal,2025-11-18
+WH-009,Quebec,SKU-1022,Probiotics Daily,Health & Wellness,6349,682,1023,6824,142852.50,154.9,Overstock,2025-11-18
+WH-009,Quebec,SKU-1019,Disinfecting Wipes,Household Cleaning,3544,521,782,5216,39870.00,50.6,Normal,2025-11-18
+WH-009,Quebec,SKU-1020,Vitamin C Gummies,Health & Wellness,6558,926,1390,9268,57382.50,102.5,Normal,2025-11-18
+WH-009,Quebec,SKU-1017,Laundry Detergent Pods,Household Cleaning,6340,921,1382,9216,117290.00,115.3,Normal,2025-11-18
+WH-009,Quebec,SKU-1000,Maple Crunch Granola Bars,Snacks & Confectionery,2982,763,1145,7634,13419.00,60.9,Normal,2025-11-18
+WH-009,Quebec,SKU-1024,Multivitamin Adult,Health & Wellness,1375,431,647,4318,19593.75,55.0,Normal,2025-11-18
+WH-009,Quebec,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,1627,335,503,3354,8541.75,65.1,Normal,2025-11-18
+WH-009,Quebec,SKU-1003,Chocolate Wafer Cookies,Snacks & Confectionery,8686,897,1346,8978,36481.20,88.6,Overstock,2025-11-18
+WH-009,Quebec,SKU-1023,Fiber Supplement Powder,Health & Wellness,1107,323,484,3232,18542.25,29.9,Normal,2025-11-18
+WH-009,Quebec,SKU-1015,Multi-Surface Cleaner,Household Cleaning,3078,813,1219,8132,30010.50,36.2,Normal,2025-11-18
+WH-009,Quebec,SKU-1007,Energy Drink - Arctic Blast,Beverages,5767,879,1319,8794,50461.25,125.4,Normal,2025-11-18
+WH-010,West,SKU-1006,Iced Tea - Peach,Beverages,4330,485,728,4858,18402.50,61.0,Overstock,2025-11-18
+WH-010,West,SKU-1009,Cold Brew Coffee RTD,Beverages,3532,741,1112,7416,26490.00,107.0,Normal,2025-11-18
+WH-010,West,SKU-1007,Energy Drink - Arctic Blast,Beverages,362,104,156,1040,3167.50,5.1,Normal,2025-11-18
+WH-010,West,SKU-1011,Body Lotion - Unscented,Personal Care,1889,206,310,2068,23612.50,104.9,Overstock,2025-11-18
+WH-010,West,SKU-1005,Sparkling Water - Lemon,Beverages,4704,676,1014,6764,25872.00,247.6,Normal,2025-11-18
+WH-010,West,SKU-1023,Fiber Supplement Powder,Health & Wellness,1843,965,1447,9652,30870.25,63.6,Normal,2025-11-18
+WH-010,West,SKU-1000,Maple Crunch Granola Bars,Snacks & Confectionery,2569,264,396,2644,11560.50,53.5,Overstock,2025-11-18
+WH-010,West,SKU-1017,Laundry Detergent Pods,Household Cleaning,667,159,239,1594,12339.50,26.7,Normal,2025-11-18
+WH-010,West,SKU-1004,Mixed Nuts Premium,Snacks & Confectionery,7752,934,1401,9342,52713.60,89.1,Overstock,2025-11-18
+WH-010,West,SKU-1008,Coconut Water Organic,Beverages,4693,996,1494,9966,43410.25,61.8,Normal,2025-11-18
+WH-010,West,SKU-1018,Glass Cleaner,Household Cleaning,4333,643,964,6432,33797.40,65.7,Normal,2025-11-18
+WH-010,West,SKU-1014,Deodorant - Fresh Scent,Personal Care,4019,507,760,5070,41194.75,82.0,Overstock,2025-11-18
+WH-010,West,SKU-1015,Multi-Surface Cleaner,Household Cleaning,1937,951,1427,9516,18885.75,22.0,Normal,2025-11-18
+WH-010,West,SKU-1016,Dish Soap - Citrus,Household Cleaning,1744,182,273,1824,10900.00,48.4,Overstock,2025-11-18
+WH-010,West,SKU-1002,Potato Chips - Sea Salt,Snacks & Confectionery,1448,365,548,3656,5430.00,15.4,Normal,2025-11-18
+WH-010,West,SKU-1022,Probiotics Daily,Health & Wellness,474,153,229,1530,10665.00,11.8,Normal,2025-11-18
+WH-010,West,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,2564,304,456,3046,13461.00,134.9,Overstock,2025-11-18
+WH-010,West,SKU-1013,Toothpaste - Whitening,Personal Care,286,276,414,2764,1859.00,4.6,Low,2025-11-18
+WH-010,West,SKU-1021,Protein Bars - Chocolate,Health & Wellness,6405,758,1137,7580,80062.50,74.5,Overstock,2025-11-18
+WH-011,West,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,258,136,205,1368,1354.50,8.3,Normal,2025-11-18
+WH-011,West,SKU-1007,Energy Drink - Arctic Blast,Beverages,5185,523,785,5238,45368.75,112.7,Overstock,2025-11-18
+WH-011,West,SKU-1009,Cold Brew Coffee RTD,Beverages,1757,739,1109,7394,13177.50,25.5,Normal,2025-11-18
+WH-011,West,SKU-1022,Probiotics Daily,Health & Wellness,3815,518,777,5182,85837.50,86.7,Normal,2025-11-18
+WH-011,West,SKU-1014,Deodorant - Fresh Scent,Personal Care,5262,839,1259,8398,53935.50,72.1,Normal,2025-11-18
+WH-011,West,SKU-1002,Potato Chips - Sea Salt,Snacks & Confectionery,1395,737,1105,7372,5231.25,16.2,Normal,2025-11-18
+WH-011,West,SKU-1023,Fiber Supplement Powder,Health & Wellness,527,85,127,852,8827.25,10.3,Normal,2025-11-18
+WH-011,West,SKU-1008,Coconut Water Organic,Beverages,535,430,645,4302,4948.75,25.5,Low,2025-11-18
+WH-011,West,SKU-1006,Iced Tea - Peach,Beverages,3156,395,592,3950,13413.00,38.0,Overstock,2025-11-18
+WH-011,West,SKU-1013,Toothpaste - Whitening,Personal Care,1320,981,1472,9818,8580.00,13.8,Low,2025-11-18
+WH-011,West,SKU-1024,Multivitamin Adult,Health & Wellness,790,461,692,4614,11257.50,24.7,Normal,2025-11-18
+WH-011,West,SKU-1017,Laundry Detergent Pods,Household Cleaning,5041,790,1186,7908,93258.50,54.2,Normal,2025-11-18
+WH-011,West,SKU-1003,Chocolate Wafer Cookies,Snacks & Confectionery,3022,744,1116,7444,12692.40,91.6,Normal,2025-11-18
+WH-011,West,SKU-1010,Hand Soap - Lavender,Personal Care,8120,979,1468,9790,66990.00,89.2,Overstock,2025-11-18
+WH-011,West,SKU-1019,Disinfecting Wipes,Household Cleaning,1572,825,1238,8256,17685.00,22.5,Normal,2025-11-18
+WH-011,West,SKU-1004,Mixed Nuts Premium,Snacks & Confectionery,3935,590,885,5900,26758.00,75.7,Normal,2025-11-18
+WH-011,West,SKU-1011,Body Lotion - Unscented,Personal Care,1402,546,819,5460,17525.00,46.7,Normal,2025-11-18
+WH-012,West,SKU-1022,Probiotics Daily,Health & Wellness,4692,908,1363,9088,105570.00,75.7,Normal,2025-11-18
+WH-012,West,SKU-1015,Multi-Surface Cleaner,Household Cleaning,300,108,163,1088,2925.00,3.9,Normal,2025-11-18
+WH-012,West,SKU-1009,Cold Brew Coffee RTD,Beverages,5712,612,918,6126,42840.00,78.2,Overstock,2025-11-18
+WH-012,West,SKU-1021,Protein Bars - Chocolate,Health & Wellness,6969,744,1116,7442,87112.50,435.6,Overstock,2025-11-18
+WH-012,West,SKU-1012,Shampoo - Moisturizing,Personal Care,1446,353,530,3534,22774.50,18.1,Normal,2025-11-18
+WH-012,West,SKU-1017,Laundry Detergent Pods,Household Cleaning,1413,234,351,2346,26140.50,21.4,Normal,2025-11-18
+WH-012,West,SKU-1001,Trail Mix - Canadian Blend,Snacks & Confectionery,1808,814,1221,8140,9492.00,139.1,Normal,2025-11-18
+WH-012,West,SKU-1014,Deodorant - Fresh Scent,Personal Care,3319,412,618,4120,34019.75,110.6,Overstock,2025-11-18
+WH-012,West,SKU-1002,Potato Chips - Sea Salt,Snacks & Confectionery,5041,529,793,5290,18903.75,458.3,Overstock,2025-11-18
+WH-012,West,SKU-1010,Hand Soap - Lavender,Personal Care,7608,924,1387,9248,62766.00,362.3,Overstock,2025-11-18
+WH-012,West,SKU-1004,Mixed Nuts Premium,Snacks & Confectionery,3834,388,582,3880,26071.20,159.8,Overstock,2025-11-18
+WH-012,West,SKU-1005,Sparkling Water - Lemon,Beverages,1738,776,1164,7760,9559.00,18.9,Normal,2025-11-18
+WH-012,West,SKU-1018,Glass Cleaner,Household Cleaning,2313,272,408,2722,18041.40,49.2,Overstock,2025-11-18
+WH-012,West,SKU-1006,Iced Tea - Peach,Beverages,6631,853,1280,8536,28181.75,150.7,Overstock,2025-11-18
+WH-012,West,SKU-1008,Coconut Water Organic,Beverages,4652,700,1050,7006,43031.00,66.5,Normal,2025-11-18
+WH-012,West,SKU-1000,Maple Crunch Granola Bars,Snacks & Confectionery,2289,419,628,4192,10300.50,28.6,Normal,2025-11-18
+WH-013,West,SKU-1006,Iced Tea - Peach,Beverages,9003,981,1472,9816,38262.75,310.4,Overstock,2025-11-18
+WH-013,West,SKU-1019,Disinfecting Wipes,Household Cleaning,5163,751,1127,7516,58083.75,72.7,Normal,2025-11-18
+WH-013,West,SKU-1016,Dish Soap - Citrus,Household Cleaning,3308,585,878,5854,20675.00,41.4,Normal,2025-11-18
+WH-013,West,SKU-1004,Mixed Nuts Premium,Snacks & Confectionery,7090,910,1365,9102,48212.00,104.3,Overstock,2025-11-18
+WH-013,West,SKU-1002,Potato Chips - Sea Salt,Snacks & Confectionery,2092,547,820,5472,7845.00,21.1,Normal,2025-11-18
+WH-013,West,SKU-1008,Coconut Water Organic,Beverages,2753,411,616,4112,25465.25,46.7,Normal,2025-11-18
+WH-013,West,SKU-1013,Toothpaste - Whitening,Personal Care,3908,402,603,4026,25402.00,63.0,Overstock,2025-11-18
+WH-013,West,SKU-1010,Hand Soap - Lavender,Personal Care,416,91,137,914,3432.00,5.9,Normal,2025-11-18
+WH-013,West,SKU-1022,Probiotics Daily,Health & Wellness,3806,644,966,6446,85635.00,40.5,Normal,2025-11-18
+WH-013,West,SKU-1023,Fiber Supplement Powder,Health & Wellness,2297,269,403,2692,38474.75,164.1,Overstock,2025-11-18
+WH-013,West,SKU-1018,Glass Cleaner,Household Cleaning,1254,226,340,2268,9781.20,14.8,Normal,2025-11-18
+WH-013,West,SKU-1000,Maple Crunch Granola Bars,Snacks & Confectionery,1385,563,845,5638,6232.50,21.0,Normal,2025-11-18
+WH-013,West,SKU-1021,Protein Bars - Chocolate,Health & Wellness,1260,183,274,1832,15750.00,18.5,Normal,2025-11-18
+WH-013,West,SKU-1011,Body Lotion - Unscented,Personal Care,414,45,67,450,5175.00,14.8,Overstock,2025-11-18
+WH-013,West,SKU-1012,Shampoo - Moisturizing,Personal Care,6054,691,1037,6916,95350.50,208.8,Overstock,2025-11-18
